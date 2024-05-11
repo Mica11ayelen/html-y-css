@@ -1,0 +1,23 @@
+h1 {
+    color: brown;
+    background-color: black;
+    text-align: center;
+}
+p{
+    color: blue;
+}
+.destacados {
+    color: chocolate;
+}
+h2{
+    font-size: medium;
+}
+h3{
+    font-size: medium;
+}
+h5{
+    color: black;
+    background-color: aqua;
+    text-align: center;
+    font-size: larger;
+}
